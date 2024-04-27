@@ -1,0 +1,102 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/Resources/Sprites/Objects/Eggs Wall.tpsheet
+- Assets/Resources/Sprites/Objects/Magical Statue Anims.tpsheet
+- Assets/Resources/Sprites/Objects/Snow Wall Anims.tpsheet
+- Assets/Resources/Sprites/Objects/Snowball Anims.tpsheet
+- Assets/Resources/Sprites/Objects/Unicorn Statue Anims.tpsheet
+- Assets/Resources/Sprites/Players/Black Duck Anims.tpsheet
+- Assets/Resources/Sprites/Players/Carried Snow Anims.tpsheet
+- Assets/Resources/Sprites/Players/Duck Snow Cake Anims.tpsheet
+- Assets/Resources/Sprites/Players/Others.tpsheet
+- Assets/Resources/Sprites/Players/Roast Duck Anims.tpsheet
+- Assets/Resources/Sprites/Players/White Duck Anims.tpsheet
+- Assets/Resources/Sprites/Players/Yellow Duck Anims.tpsheet
+- Assets/Resources/Sprites/UIs/HUD.tpsheet
+- Assets/Resources/Sprites/UIs/Skin Showing Words.tpsheet
+- Assets/Resources/Sprites/Voting/Rule Card Showing Anims/BuildProhibited.tpsheet
+- Assets/Resources/Sprites/Voting/Rule Card Showing Anims/CurveBall.tpsheet
+- Assets/Resources/Sprites/Voting/Rule Card Showing Anims/DuckSnowCake.tpsheet
+- Assets/Resources/Sprites/Voting/Rule Card Showing Anims/EggsWallMovable.tpsheet
+- Assets/Resources/Sprites/Voting/Rule Card Showing Anims/Fire2GoesV.tpsheet
+- Assets/Resources/Sprites/Voting/Rule Card Showing Anims/HighGravity.tpsheet
+- Assets/Resources/Sprites/Voting/Rule Card Showing Anims/KnockDownProhibited.tpsheet
+- Assets/Resources/Sprites/Voting/Rule Card Showing Anims/KnockOutFarther.tpsheet
+- Assets/Resources/Sprites/Voting/Rule Card Showing Anims/KnuckleBall.tpsheet
+- Assets/Resources/Sprites/Voting/Rule Card Showing Anims/RepairProhibited.tpsheet
+- Assets/Resources/Sprites/Voting/Rule Card Showing Anims/SlowerAndCollidableSnowball.tpsheet
+- Assets/Resources/Sprites/Voting/Rule Card Showing Anims/SnowWallBuildFastAndRotting.tpsheet
+- Assets/Resources/Sprites/Voting/Rule Card Showing Anims/SnowWallCostDown.tpsheet
+- Assets/Resources/Sprites/Voting/Rule Card Showing Anims/StatuesRepairedOnceAtRoundEnd.tpsheet
+- Assets/Resources/Sprites/Voting/Rule Card Showing Anims/StatuesRotting.tpsheet
+- Assets/Resources/Sprites/Voting/Rule Card Showing Anims/TravelingStatue.tpsheet
+- Assets/Resources/Sprites/Voting/Rule Card Showing Anims/TurnProhibited.tpsheet
+- Assets/Resources/Sprites/Voting/Voting Phase Items.tpsheet
+textureFileNames:
+- Assets/Resources/Sprites/Objects/Eggs Wall.png
+- Assets/Resources/Sprites/Objects/Magical Statue Anims.png
+- Assets/Resources/Sprites/Objects/Snow Wall Anims.png
+- Assets/Resources/Sprites/Objects/Snowball Anims.png
+- Assets/Resources/Sprites/Objects/Unicorn Statue Anims.png
+- Assets/Resources/Sprites/Players/Black Duck Anims.png
+- Assets/Resources/Sprites/Players/Carried Snow Anims.png
+- Assets/Resources/Sprites/Players/Duck Snow Cake Anims.png
+- Assets/Resources/Sprites/Players/Others.png
+- Assets/Resources/Sprites/Players/Roast Duck Anims.png
+- Assets/Resources/Sprites/Players/White Duck Anims.png
+- Assets/Resources/Sprites/Players/Yellow Duck Anims.png
+- Assets/Resources/Sprites/UIs/HUD.png
+- Assets/Resources/Sprites/UIs/Skin Showing Words.png
+- Assets/Resources/Sprites/Voting/Rule Card Showing Anims/BuildProhibited.png
+- Assets/Resources/Sprites/Voting/Rule Card Showing Anims/CurveBall.png
+- Assets/Resources/Sprites/Voting/Rule Card Showing Anims/DuckSnowCake.png
+- Assets/Resources/Sprites/Voting/Rule Card Showing Anims/EggsWallMovable.png
+- Assets/Resources/Sprites/Voting/Rule Card Showing Anims/Fire2GoesV.png
+- Assets/Resources/Sprites/Voting/Rule Card Showing Anims/HighGravity.png
+- Assets/Resources/Sprites/Voting/Rule Card Showing Anims/KnockDownProhibited.png
+- Assets/Resources/Sprites/Voting/Rule Card Showing Anims/KnockOutFarther.png
+- Assets/Resources/Sprites/Voting/Rule Card Showing Anims/KnuckleBall.png
+- Assets/Resources/Sprites/Voting/Rule Card Showing Anims/RepairProhibited.png
+- Assets/Resources/Sprites/Voting/Rule Card Showing Anims/SlowerAndCollidableSnowball.png
+- Assets/Resources/Sprites/Voting/Rule Card Showing Anims/SnowWallBuildFastAndRotting.png
+- Assets/Resources/Sprites/Voting/Rule Card Showing Anims/SnowWallCostDown.png
+- Assets/Resources/Sprites/Voting/Rule Card Showing Anims/StatuesRepairedOnceAtRoundEnd.png
+- Assets/Resources/Sprites/Voting/Rule Card Showing Anims/StatuesRotting.png
+- Assets/Resources/Sprites/Voting/Rule Card Showing Anims/TravelingStatue.png
+- Assets/Resources/Sprites/Voting/Rule Card Showing Anims/TurnProhibited.png
+- Assets/Resources/Sprites/Voting/Voting Phase Items.png
+normalmapFileNames:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+enableDebugOutput: 0

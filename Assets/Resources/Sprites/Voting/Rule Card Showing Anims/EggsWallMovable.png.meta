@@ -1,0 +1,596 @@
+fileFormatVersion: 2
+guid: a251ba3c1107375488b8d9805f2a6f08
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4632954263260959753
+    second: EggsWallMovable_0001
+  - first:
+      213: -5672449406422882610
+    second: EggsWallMovable_0002
+  - first:
+      213: 8310834869184975379
+    second: EggsWallMovable_0003
+  - first:
+      213: 7503363231361829010
+    second: EggsWallMovable_0004
+  - first:
+      213: -3009052573672570644
+    second: EggsWallMovable_0005
+  - first:
+      213: 6485347908876329608
+    second: EggsWallMovable_0006
+  - first:
+      213: 1513026500595775608
+    second: EggsWallMovable_0007
+  - first:
+      213: -8675856326270686540
+    second: EggsWallMovable_0008
+  - first:
+      213: -4134033430832731159
+    second: EggsWallMovable_0009
+  - first:
+      213: -2942096639944340743
+    second: EggsWallMovable_0010
+  - first:
+      213: 6274575225492171074
+    second: EggsWallMovable_0011
+  - first:
+      213: -1382927081665306330
+    second: EggsWallMovable_0012
+  - first:
+      213: -4315344737469312233
+    second: EggsWallMovable_0013
+  - first:
+      213: 3803573404499202144
+    second: EggsWallMovable_0014
+  - first:
+      213: 6435361929134711978
+    second: EggsWallMovable_0015
+  - first:
+      213: -3715917953545736137
+    second: EggsWallMovable_0016
+  - first:
+      213: 2441291314678589194
+    second: EggsWallMovable_0017
+  - first:
+      213: 6621708749897662682
+    second: EggsWallMovable_0018
+  - first:
+      213: 6788416915693396511
+    second: EggsWallMovable_0019
+  - first:
+      213: 8092147904009102204
+    second: EggsWallMovable_0020
+  - first:
+      213: -468659658122810569
+    second: EggsWallMovable_0021
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EggsWallMovable_0001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1712
+        width: 395
+        height: 335
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12835822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbe2bdd4a074bfb0800000000000000
+      internalID: -4632954263260959753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EggsWallMovable_0002
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1712
+        width: 395
+        height: 335
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12835822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6e9cb91596741b0800000000000000
+      internalID: -5672449406422882610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EggsWallMovable_0003
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1712
+        width: 395
+        height: 335
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12835822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31253b4e744065370800000000000000
+      internalID: 8310834869184975379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EggsWallMovable_0004
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1712
+        width: 395
+        height: 335
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12835822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2988c0aba1d412860800000000000000
+      internalID: 7503363231361829010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EggsWallMovable_0005
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1712
+        width: 395
+        height: 335
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12835822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce085cb70a2bd36d0800000000000000
+      internalID: -3009052573672570644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EggsWallMovable_0006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1375
+        width: 395
+        height: 335
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12835822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8826561ff85900a50800000000000000
+      internalID: 6485347908876329608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EggsWallMovable_0007
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1038
+        width: 395
+        height: 335
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12835822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87873cff5995ff410800000000000000
+      internalID: 1513026500595775608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EggsWallMovable_0008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 701
+        width: 395
+        height: 335
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12835822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba6f4e43aa299780800000000000000
+      internalID: -8675856326270686540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EggsWallMovable_0009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 364
+        width: 395
+        height: 335
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12835822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb20a96f76f0a6c0800000000000000
+      internalID: -4134033430832731159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EggsWallMovable_0010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 27
+        width: 395
+        height: 335
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12835822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa4f31a1b29b27d0800000000000000
+      internalID: -2942096639944340743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EggsWallMovable_0011
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1375
+        width: 395
+        height: 335
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12835822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2496de76ce4c31750800000000000000
+      internalID: 6274575225492171074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EggsWallMovable_0012
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1375
+        width: 395
+        height: 335
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12835822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6216213752bdecce0800000000000000
+      internalID: -1382927081665306330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EggsWallMovable_0013
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1375
+        width: 395
+        height: 335
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12835822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7135acf23d0dc14c0800000000000000
+      internalID: -4315344737469312233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EggsWallMovable_0014
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1375
+        width: 395
+        height: 335
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12835822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0605c44fbd109c430800000000000000
+      internalID: 3803573404499202144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EggsWallMovable_0015
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1038
+        width: 395
+        height: 335
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12835822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4a52b149ffe4950800000000000000
+      internalID: 6435361929134711978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EggsWallMovable_0016
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 701
+        width: 395
+        height: 335
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12835822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730f86c1f486e6cc0800000000000000
+      internalID: -3715917953545736137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EggsWallMovable_0017
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1712
+        width: 395
+        height: 335
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12835822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07e9a4248531e120800000000000000
+      internalID: 2441291314678589194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EggsWallMovable_0018
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 364
+        width: 395
+        height: 335
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12835822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad00fb3560905eb50800000000000000
+      internalID: 6621708749897662682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EggsWallMovable_0019
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 27
+        width: 395
+        height: 335
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12835822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12682fd73d453e50800000000000000
+      internalID: 6788416915693396511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EggsWallMovable_0020
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1038
+        width: 395
+        height: 335
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12835822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73626805a51d4070800000000000000
+      internalID: 8092147904009102204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EggsWallMovable_0021
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1038
+        width: 395
+        height: 335
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12835822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ba805268cfe79f0800000000000000
+      internalID: -468659658122810569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

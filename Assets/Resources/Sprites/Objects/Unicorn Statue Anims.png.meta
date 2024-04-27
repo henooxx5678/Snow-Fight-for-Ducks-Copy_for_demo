@@ -1,0 +1,620 @@
+fileFormatVersion: 2
+guid: ef7be077be16b4b4182815c8d8ce3a32
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2171534357746203321
+    second: CastShadow
+  - first:
+      213: 1108132007051308915
+    second: GetHit1To0_0001
+  - first:
+      213: 7939619372215983635
+    second: GetHit1To0_0002
+  - first:
+      213: -5429474747726472233
+    second: GetHit1To0_0003
+  - first:
+      213: -2555683645059178477
+    second: GetHit1To0_0004
+  - first:
+      213: 404192556777572338
+    second: GetHit1To0_0005
+  - first:
+      213: 1281307796835135386
+    second: GetHit1To0_0006
+  - first:
+      213: 1765920942381306959
+    second: GetHit2To1_0001
+  - first:
+      213: 8402008043792265166
+    second: GetHit2To1_0002
+  - first:
+      213: 5005562006154672550
+    second: GetHit2To1_0003
+  - first:
+      213: -7432332304768230153
+    second: GetHit2To1_0004
+  - first:
+      213: -3537932520299566860
+    second: GetHit2To1_0005
+  - first:
+      213: 2555606254217687507
+    second: GetHit3To2_0001
+  - first:
+      213: 8524136211518018691
+    second: GetHit3To2_0002
+  - first:
+      213: 3250837511298093536
+    second: GetHit3To2_0003
+  - first:
+      213: 7686466738750699384
+    second: GetHit3To2_0004
+  - first:
+      213: -4809190070529659889
+    second: GetHit3To2_0005
+  - first:
+      213: -5440995219107862478
+    second: GetHit3To2_0006
+  - first:
+      213: 1562750229664742773
+    second: Idle0HP
+  - first:
+      213: -2297914882732688968
+    second: Idle1HP
+  - first:
+      213: 6609868050375811765
+    second: Idle2HP
+  - first:
+      213: -7816697972699516566
+    second: Idle3Hp
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CastShadow
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 71
+        width: 186
+        height: 84
+      alignment: 9
+      pivot: {x: 0.52956986, y: 1.7440476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7454bf4c1092dd1e0800000000000000
+      internalID: -2171534357746203321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GetHit1To0_0001
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 288
+        width: 204
+        height: 228
+      alignment: 9
+      pivot: {x: 0.5563725, y: 0.57236844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37fa8847030e06f00800000000000000
+      internalID: 1108132007051308915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GetHit1To0_0002
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 610
+        width: 198
+        height: 218
+      alignment: 9
+      pivot: {x: 0.57323235, y: 0.5986239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e5ebcc0c13f2e60800000000000000
+      internalID: 7939619372215983635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GetHit1To0_0003
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 177
+        width: 197
+        height: 211
+      alignment: 9
+      pivot: {x: 0.57614213, y: 0.6184834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db5fc8cb71a6a4b0800000000000000
+      internalID: -5429474747726472233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GetHit1To0_0004
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 830
+        width: 198
+        height: 193
+      alignment: 9
+      pivot: {x: 0.57828283, y: 0.6761658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310e8f1f343688cd0800000000000000
+      internalID: -2555683645059178477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GetHit1To0_0005
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 12
+        width: 194
+        height: 163
+      alignment: 9
+      pivot: {x: 0.564433, y: 0.78834355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f785972dfafb9500800000000000000
+      internalID: 404192556777572338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GetHit1To0_0006
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 826
+        width: 206
+        height: 106
+      alignment: 9
+      pivot: {x: 0.55097085, y: 1.2028302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9feb4e07ae18c110800000000000000
+      internalID: 1281307796835135386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GetHit2To1_0001
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 518
+        width: 190
+        height: 248
+      alignment: 9
+      pivot: {x: 0.6078947, y: 0.48185483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f449f08adbfc18810800000000000000
+      internalID: 1765920942381306959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GetHit2To1_0002
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 367
+        width: 200
+        height: 218
+      alignment: 9
+      pivot: {x: 0.5775, y: 0.55733943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf6632dccde99470800000000000000
+      internalID: 8402008043792265166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GetHit2To1_0003
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 556
+        width: 207
+        height: 210
+      alignment: 9
+      pivot: {x: 0.59178746, y: 0.58809525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a97a0ebf14577540800000000000000
+      internalID: 5005562006154672550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GetHit2To1_0004
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 73
+        width: 197
+        height: 213
+      alignment: 9
+      pivot: {x: 0.57614213, y: 0.58450705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc11a1a52d0bd890800000000000000
+      internalID: -7432332304768230153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GetHit2To1_0005
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 157
+        width: 201
+        height: 208
+      alignment: 9
+      pivot: {x: 0.57462686, y: 0.5745192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8ed381e1db6eec0800000000000000
+      internalID: -3537932520299566860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GetHit3To2_0001
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 587
+        width: 202
+        height: 237
+      alignment: 9
+      pivot: {x: 0.59653467, y: 0.52109706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d179681956577320800000000000000
+      internalID: 2555606254217687507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GetHit3To2_0002
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 768
+        width: 203
+        height: 255
+      alignment: 9
+      pivot: {x: 0.59359604, y: 0.5117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3845398b8b0db4670800000000000000
+      internalID: 8524136211518018691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GetHit3To2_0003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 28
+        width: 201
+        height: 243
+      alignment: 9
+      pivot: {x: 0.579602, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1107b2e7b4d1d20800000000000000
+      internalID: 3250837511298093536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GetHit3To2_0004
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 308
+        width: 196
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5688776, y: 0.48577237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877371536c0dbaa60800000000000000
+      internalID: 7686466738750699384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GetHit3To2_0005
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 521
+        width: 199
+        height: 250
+      alignment: 9
+      pivot: {x: 0.5703518, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c6ebc6c13524db0800000000000000
+      internalID: -4809190070529659889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GetHit3To2_0006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 773
+        width: 213
+        height: 250
+      alignment: 9
+      pivot: {x: 0.59859157, y: 0.502}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2382a740da3bd74b0800000000000000
+      internalID: -5440995219107862478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle0HP
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 934
+        width: 233
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 1.488764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57db3d7dd0100b510800000000000000
+      internalID: 1562750229664742773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle1HP
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 390
+        width: 197
+        height: 218
+      alignment: 9
+      pivot: {x: 0.57614213, y: 0.5986239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b972aac69a2c10e0800000000000000
+      internalID: -2297914882732688968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle2HP
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 273
+        width: 205
+        height: 246
+      alignment: 9
+      pivot: {x: 0.5829268, y: 0.49390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2aad2a8f7fabb50800000000000000
+      internalID: 6609868050375811765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle3Hp
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 73
+        width: 194
+        height: 233
+      alignment: 9
+      pivot: {x: 0.564433, y: 0.51287556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61bab4cb92858390800000000000000
+      internalID: -7816697972699516566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

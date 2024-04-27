@@ -1,0 +1,1652 @@
+fileFormatVersion: 2
+guid: 8b022e9536ec57d45abd25b5c6cb8d1d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8828099480346771338
+    second: Building_0001
+  - first:
+      213: -8656409463774691261
+    second: Building_0002
+  - first:
+      213: 3170502469871557829
+    second: Building_0003
+  - first:
+      213: -8835577415401228349
+    second: Building_0004
+  - first:
+      213: -4839334783639223183
+    second: Collecting_0001
+  - first:
+      213: 4885243619089928578
+    second: Collecting_0002
+  - first:
+      213: -8188260941791621376
+    second: Collecting_0003
+  - first:
+      213: 3106902107632202025
+    second: Collecting_0004
+  - first:
+      213: -7805245827943448166
+    second: Collecting_0005
+  - first:
+      213: -3926565744530018861
+    second: Collecting_0006
+  - first:
+      213: -3470495081657968870
+    second: Collecting_0007
+  - first:
+      213: -6941145727003744898
+    second: Collecting_0008
+  - first:
+      213: 7310964191962633274
+    second: Collecting_0009
+  - first:
+      213: -5514697731866475209
+    second: Firing_0001
+  - first:
+      213: -5474780251676649154
+    second: Firing_0002
+  - first:
+      213: -7926379248689567730
+    second: Firing_0003
+  - first:
+      213: -3224976664783977822
+    second: Firing_0004
+  - first:
+      213: 1709945613405143604
+    second: Firing_0005
+  - first:
+      213: -8077231020421698342
+    second: Firing_0006
+  - first:
+      213: -5433694272338816495
+    second: Firing_0007
+  - first:
+      213: 2264667502589479523
+    second: Idle_0001
+  - first:
+      213: -3570699223675446693
+    second: Idle_0002
+  - first:
+      213: -2014896601025273328
+    second: KnockedOut_0001
+  - first:
+      213: 1312701322242323739
+    second: MovingWall_0001
+  - first:
+      213: -378484723020502184
+    second: MovingWall_0002
+  - first:
+      213: -4110676596562123146
+    second: Quacking_0001
+  - first:
+      213: 743824520625789422
+    second: Quacking_0002
+  - first:
+      213: -8151737099824523476
+    second: Quacking_0003
+  - first:
+      213: -8734338146198625396
+    second: Quacking_0004
+  - first:
+      213: -3655612487653626521
+    second: Repairing_0001
+  - first:
+      213: -5203038470240904473
+    second: Repairing_0002
+  - first:
+      213: 1726212675317676637
+    second: Repairing_0003
+  - first:
+      213: 253980208621675152
+    second: Repairing_0004
+  - first:
+      213: 3044318810163561969
+    second: Repairing_0005
+  - first:
+      213: -738025664550257441
+    second: Repairing_0006
+  - first:
+      213: 1628846379096149150
+    second: Repairing_0007
+  - first:
+      213: 7380677982226237069
+    second: Repairing_0008
+  - first:
+      213: 7380691148792665051
+    second: Repairing_0009
+  - first:
+      213: 8106457650457521945
+    second: Repairing_0010
+  - first:
+      213: 5687609304746942704
+    second: Repairing_0011
+  - first:
+      213: -7144951110347844823
+    second: Repairing_0012
+  - first:
+      213: 7153346032556312576
+    second: Repairing_0013
+  - first:
+      213: -6788220792363407870
+    second: Repairing_0014
+  - first:
+      213: -8916083588610477872
+    second: Repairing_0015
+  - first:
+      213: 4963086355195200530
+    second: Repairing_0016
+  - first:
+      213: 189336935011292752
+    second: Repairing_0017
+  - first:
+      213: 387476342941995675
+    second: Repairing_0018
+  - first:
+      213: 8173263319488356187
+    second: Repairing_0019
+  - first:
+      213: -3926757043641021463
+    second: Repairing_0020
+  - first:
+      213: 6764129499746769228
+    second: Repairing_0021
+  - first:
+      213: -4143535954856202266
+    second: Repairing_0022
+  - first:
+      213: -1606799087116835530
+    second: SkinShowing_0001
+  - first:
+      213: -5566812289030331966
+    second: SkinShowing_0002
+  - first:
+      213: -8780093185536227469
+    second: SwingingCake_0001
+  - first:
+      213: -4314325331162453425
+    second: SwingingCake_0002
+  - first:
+      213: 4733904318257851413
+    second: SwingingCake_0003
+  - first:
+      213: -8082996435126143692
+    second: SwingingCake_0004
+  - first:
+      213: 7762330299432365627
+    second: SwingingCake_0005
+  - first:
+      213: 394400200666863269
+    second: SwingingCake_0006
+  - first:
+      213: -6272623285412315398
+    second: Turning_0001
+  - first:
+      213: 2922168930843447106
+    second: Turning_0002
+  - first:
+      213: 5201729720006262130
+    second: Turning_0003
+  - first:
+      213: 7414290011861244582
+    second: Turning_0004
+  - first:
+      213: -7462673634652015932
+    second: Walking_0001
+  - first:
+      213: 1836524413801683354
+    second: Walking_0002
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Building_0001
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1891
+        width: 201
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670ce10cb4a4c7580800000000000000
+      internalID: -8828099480346771338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building_0002
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1753
+        width: 198
+        height: 144
+      alignment: 9
+      pivot: {x: 0.50757575, y: 0.5208333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3404161d4714ed780800000000000000
+      internalID: -8656409463774691261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building_0003
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1899
+        width: 200
+        height: 148
+      alignment: 9
+      pivot: {x: 0.5075, y: 0.527027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc5134c233effb20800000000000000
+      internalID: 3170502469871557829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building_0004
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1753
+        width: 198
+        height: 144
+      alignment: 9
+      pivot: {x: 0.50757575, y: 0.5208333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7bb815729b16580800000000000000
+      internalID: -8835577415401228349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collecting_0001
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 797
+        width: 147
+        height: 157
+      alignment: 9
+      pivot: {x: 0.670068, y: 0.50318474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1740ef777aa37dcb0800000000000000
+      internalID: -4839334783639223183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collecting_0002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 685
+        width: 181
+        height: 151
+      alignment: 9
+      pivot: {x: 0.53867406, y: 0.51655626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281591d303fdbc340800000000000000
+      internalID: 4885243619089928578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collecting_0003
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 386
+        width: 185
+        height: 114
+      alignment: 9
+      pivot: {x: 0.527027, y: 0.6754386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f0e448e047d5e80800000000000000
+      internalID: -8188260941791621376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collecting_0004
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1289
+        width: 177
+        height: 151
+      alignment: 9
+      pivot: {x: 0.5508475, y: 0.51655626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921745d710fed1b20800000000000000
+      internalID: 3106902107632202025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collecting_0005
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 489
+        width: 155
+        height: 150
+      alignment: 9
+      pivot: {x: 0.63548386, y: 0.5133333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91c4d006423ea390800000000000000
+      internalID: -7805245827943448166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collecting_0006
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 232
+        width: 134
+        height: 152
+      alignment: 9
+      pivot: {x: 0.73507464, y: 0.5065789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd221a52490289c0800000000000000
+      internalID: -3926565744530018861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collecting_0007
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 229
+        width: 137
+        height: 151
+      alignment: 9
+      pivot: {x: 0.7189781, y: 0.50993377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1759075c1356dfc0800000000000000
+      internalID: -3470495081657968870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collecting_0008
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 224
+        width: 134
+        height: 152
+      alignment: 9
+      pivot: {x: 0.73507464, y: 0.5065789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75a8bfacb81caf90800000000000000
+      internalID: -6941145727003744898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collecting_0009
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 797
+        width: 147
+        height: 157
+      alignment: 9
+      pivot: {x: 0.670068, y: 0.50318474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34988b8233c57560800000000000000
+      internalID: 7310964191962633274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firing_0001
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 38
+        width: 128
+        height: 146
+      alignment: 9
+      pivot: {x: 0.75390625, y: 0.5479452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735427881abd773b0800000000000000
+      internalID: -5514697731866475209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firing_0002
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 339
+        width: 135
+        height: 148
+      alignment: 9
+      pivot: {x: 0.7222222, y: 0.527027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e395d732e5ca504b0800000000000000
+      internalID: -5474780251676649154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firing_0003
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 73
+        width: 132
+        height: 149
+      alignment: 9
+      pivot: {x: 0.7462121, y: 0.5167785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08a4dea118dff190800000000000000
+      internalID: -7926379248689567730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firing_0004
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 186
+        width: 128
+        height: 151
+      alignment: 9
+      pivot: {x: 0.73046875, y: 0.50993377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a280ae5fc49e33d0800000000000000
+      internalID: -3224976664783977822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firing_0005
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1113
+        width: 135
+        height: 156
+      alignment: 9
+      pivot: {x: 0.7074074, y: 0.50641024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4324048c972fab710800000000000000
+      internalID: 1709945613405143604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firing_0006
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 186
+        width: 128
+        height: 151
+      alignment: 9
+      pivot: {x: 0.73046875, y: 0.50993377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adcaff29e29e7ef80800000000000000
+      internalID: -8077231020421698342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Firing_0007
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 73
+        width: 132
+        height: 149
+      alignment: 9
+      pivot: {x: 0.7462121, y: 0.5167785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1129b2729d3a794b0800000000000000
+      internalID: -5433694272338816495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_0001
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 73
+        width: 132
+        height: 149
+      alignment: 9
+      pivot: {x: 0.7462121, y: 0.5167785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a873a4817bd6f10800000000000000
+      internalID: 2264667502589479523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_0002
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 78
+        width: 130
+        height: 152
+      alignment: 9
+      pivot: {x: 0.7346154, y: 0.49342105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5adf0579f3527ec0800000000000000
+      internalID: -3570699223675446693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnockedOut_0001
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 188
+        width: 132
+        height: 149
+      alignment: 9
+      pivot: {x: 0.7462121, y: 0.5167785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0122fbc7736a904e0800000000000000
+      internalID: -2014896601025273328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingWall_0001
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 536
+        width: 161
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5869565, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b157078c5e6a73210800000000000000
+      internalID: 1312701322242323739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingWall_0002
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1734
+        width: 179
+        height: 155
+      alignment: 9
+      pivot: {x: 0.53910613, y: 0.5258064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b6373562a5fbaf0800000000000000
+      internalID: -378484723020502184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quacking_0001
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 73
+        width: 132
+        height: 149
+      alignment: 9
+      pivot: {x: 0.7462121, y: 0.5167785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676276b2a61f3f6c0800000000000000
+      internalID: -4110676596562123146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quacking_0002
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 77
+        width: 132
+        height: 148
+      alignment: 9
+      pivot: {x: 0.7462121, y: 0.5202703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee91027e578925a00800000000000000
+      internalID: 743824520625789422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quacking_0003
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 530
+        width: 154
+        height: 154
+      alignment: 9
+      pivot: {x: 0.6331169, y: 0.5194805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2716962c463fde80800000000000000
+      internalID: -8151737099824523476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quacking_0004
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 233
+        width: 146
+        height: 148
+      alignment: 9
+      pivot: {x: 0.6746575, y: 0.527027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83efa78bb569c680800000000000000
+      internalID: -8734338146198625396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repairing_0001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 75
+        width: 133
+        height: 152
+      alignment: 9
+      pivot: {x: 0.7330827, y: 0.5131579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d6cec8fc7a44dc0800000000000000
+      internalID: -3655612487653626521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repairing_0002
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 685
+        width: 160
+        height: 151
+      alignment: 9
+      pivot: {x: 0.609375, y: 0.50993377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea599404181bc7b0800000000000000
+      internalID: -5203038470240904473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repairing_0003
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 686
+        width: 169
+        height: 148
+      alignment: 9
+      pivot: {x: 0.5295858, y: 0.4864865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a3617484db4f710800000000000000
+      internalID: 1726212675317676637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repairing_0004
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1578
+        width: 178
+        height: 154
+      alignment: 9
+      pivot: {x: 0.53089887, y: 0.5194805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092efd277a1568300800000000000000
+      internalID: 253980208621675152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repairing_0005
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 808
+        width: 167
+        height: 152
+      alignment: 9
+      pivot: {x: 0.55988026, y: 0.5131579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5c6de04d79f3a20800000000000000
+      internalID: 3044318810163561969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repairing_0006
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 377
+        width: 150
+        height: 151
+      alignment: 9
+      pivot: {x: 0.62333333, y: 0.53642386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc3c5d719102c5f0800000000000000
+      internalID: -738025664550257441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repairing_0007
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 532
+        width: 158
+        height: 151
+      alignment: 9
+      pivot: {x: 0.6044304, y: 0.50993377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c05bbd623da9610800000000000000
+      internalID: 1628846379096149150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repairing_0008
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 688
+        width: 178
+        height: 148
+      alignment: 9
+      pivot: {x: 0.5533708, y: 0.4864865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d864424358f6d6660800000000000000
+      internalID: 7380677982226237069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repairing_0009
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1422
+        width: 178
+        height: 154
+      alignment: 9
+      pivot: {x: 0.53089887, y: 0.5194805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd318a8ce7b7d6660800000000000000
+      internalID: 7380691148792665051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repairing_0010
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1269
+        width: 171
+        height: 151
+      alignment: 9
+      pivot: {x: 0.5701754, y: 0.51655626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fa442884cef7070800000000000000
+      internalID: 8106457650457521945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repairing_0011
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 641
+        width: 152
+        height: 154
+      alignment: 9
+      pivot: {x: 0.62828946, y: 0.52597404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0e5a647827eee40800000000000000
+      internalID: 5687609304746942704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repairing_0012
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 655
+        width: 159
+        height: 151
+      alignment: 9
+      pivot: {x: 0.6069182, y: 0.50993377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9231f2a12d808dc90800000000000000
+      internalID: -7144951110347844823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repairing_0013
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1139
+        width: 174
+        height: 148
+      alignment: 9
+      pivot: {x: 0.54310346, y: 0.4864865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00808f9015ac54360800000000000000
+      internalID: 7153346032556312576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repairing_0014
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1597
+        width: 180
+        height: 154
+      alignment: 9
+      pivot: {x: 0.5361111, y: 0.5194805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2062246a7256bc1a0800000000000000
+      internalID: -6788220792363407870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repairing_0015
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 836
+        width: 169
+        height: 151
+      alignment: 9
+      pivot: {x: 0.56508875, y: 0.51655626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0be213735b34480800000000000000
+      internalID: -8916083588610477872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repairing_0016
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 382
+        width: 155
+        height: 155
+      alignment: 9
+      pivot: {x: 0.63548386, y: 0.5225806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2148ff69ebc60e440800000000000000
+      internalID: 4963086355195200530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repairing_0017
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 383
+        width: 158
+        height: 151
+      alignment: 9
+      pivot: {x: 0.6044304, y: 0.50993377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056953270f8a0a200800000000000000
+      internalID: 189336935011292752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repairing_0018
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 989
+        width: 174
+        height: 148
+      alignment: 9
+      pivot: {x: 0.54310346, y: 0.4864865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92dce35ea7906500800000000000000
+      internalID: 387476342941995675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repairing_0019
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1442
+        width: 180
+        height: 153
+      alignment: 9
+      pivot: {x: 0.5361111, y: 0.52287585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f55dd6fa34d6170800000000000000
+      internalID: 8173263319488356187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repairing_0020
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1116
+        width: 170
+        height: 151
+      alignment: 9
+      pivot: {x: 0.56764704, y: 0.51655626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb838e064b5189c0800000000000000
+      internalID: -3926757043641021463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repairing_0021
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 502
+        width: 151
+        height: 151
+      alignment: 9
+      pivot: {x: 0.6258278, y: 0.53642386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49952f21f30fdd50800000000000000
+      internalID: 6764129499746769228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Repairing_0022
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 80
+        width: 134
+        height: 151
+      alignment: 9
+      pivot: {x: 0.73507464, y: 0.51655626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efacb0a0043f76c0800000000000000
+      internalID: -4143535954856202266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinShowing_0001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1454
+        width: 521
+        height: 593
+      alignment: 9
+      pivot: {x: 0.7533589, y: 0.5177066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635aaf25eb083b9e0800000000000000
+      internalID: -1606799087116835530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkinShowing_0002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 838
+        width: 528
+        height: 582
+      alignment: 9
+      pivot: {x: 0.7547349, y: 0.52577317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c16115a7b5beb2b0800000000000000
+      internalID: -5566812289030331966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwingingCake_0001
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 227
+        width: 134
+        height: 148
+      alignment: 9
+      pivot: {x: 0.7425373, y: 0.527027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377094544c7d62680800000000000000
+      internalID: -8780093185536227469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwingingCake_0002
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 378
+        width: 148
+        height: 152
+      alignment: 9
+      pivot: {x: 0.6925676, y: 0.5065789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4aa79638ff6024c0800000000000000
+      internalID: -4314325331162453425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwingingCake_0003
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 962
+        width: 168
+        height: 152
+      alignment: 9
+      pivot: {x: 0.59821427, y: 0.5131579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c627a65e432b140800000000000000
+      internalID: 4733904318257851413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwingingCake_0004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 539
+        width: 180
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5416667, y: 0.5347222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435be8b519d63df80800000000000000
+      internalID: -8082996435126143692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwingingCake_0005
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 962
+        width: 168
+        height: 152
+      alignment: 9
+      pivot: {x: 0.59821427, y: 0.5131579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3eeaeed74659bb60800000000000000
+      internalID: 7762330299432365627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwingingCake_0006
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 378
+        width: 148
+        height: 152
+      alignment: 9
+      pivot: {x: 0.6925676, y: 0.5065789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6571494e0397500800000000000000
+      internalID: 394400200666863269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turning_0001
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1271
+        width: 140
+        height: 159
+      alignment: 9
+      pivot: {x: 0.725, y: 0.509434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afeb72f0b5a23f8a0800000000000000
+      internalID: -6272623285412315398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turning_0002
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 956
+        width: 135
+        height: 155
+      alignment: 9
+      pivot: {x: 0.7074074, y: 0.5032258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f4b980921ad8820800000000000000
+      internalID: 2922168930843447106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turning_0003
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1591
+        width: 133
+        height: 160
+      alignment: 9
+      pivot: {x: 0.7406015, y: 0.50625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27db092de91403840800000000000000
+      internalID: 5201729720006262130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turning_0004
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1432
+        width: 135
+        height: 157
+      alignment: 9
+      pivot: {x: 0.72962964, y: 0.49044585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa57b2bb79d4e660800000000000000
+      internalID: 7414290011861244582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking_0001
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 73
+        width: 132
+        height: 149
+      alignment: 9
+      pivot: {x: 0.7462121, y: 0.5167785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2b4e34ed14f6890800000000000000
+      internalID: -7462673634652015932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walking_0002
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 39
+        width: 129
+        height: 147
+      alignment: 9
+      pivot: {x: 0.7635659, y: 0.50340134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a995bf95935ac7910800000000000000
+      internalID: 1836524413801683354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

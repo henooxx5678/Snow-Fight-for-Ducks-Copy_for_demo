@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: de2690e5402ac8549a743e750e06ec6c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3401765472953004915
+    second: SnowWallBuildFastAndRotting_0001
+  - first:
+      213: 8377457068829662788
+    second: SnowWallBuildFastAndRotting_0002
+  - first:
+      213: -1137950928710575231
+    second: SnowWallBuildFastAndRotting_0003
+  - first:
+      213: -1987791812581451400
+    second: SnowWallBuildFastAndRotting_0004
+  - first:
+      213: 758454548059093447
+    second: SnowWallBuildFastAndRotting_0005
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SnowWallBuildFastAndRotting_0001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 688
+        width: 395
+        height: 335
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12835822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c827f53508ac0d0800000000000000
+      internalID: -3401765472953004915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowWallBuildFastAndRotting_0002
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 688
+        width: 395
+        height: 335
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12835822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e5da481d4b24470800000000000000
+      internalID: 8377457068829662788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowWallBuildFastAndRotting_0003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 351
+        width: 395
+        height: 335
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12835822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b5162d8af2530f0800000000000000
+      internalID: -1137950928710575231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowWallBuildFastAndRotting_0004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 14
+        width: 395
+        height: 335
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12835822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87917a3d0e1f964e0800000000000000
+      internalID: -1987791812581451400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowWallBuildFastAndRotting_0005
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 351
+        width: 395
+        height: 335
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12835822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9775b9462968a00800000000000000
+      internalID: 758454548059093447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,20 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:0fcbcaa111f4ca6a6690951234c88cbe:1cfe86aa0f5433dcb2f2e1446a0add6a:e9e6327b39c9abf88aa0534208812fee$
+#
+:format=40300
+:texture=SnowWallBuildFastAndRotting.png
+:size=1024x1024
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+SnowWallBuildFastAndRotting_0001;1;688;395;335; 0.5;0.12835820895522387; 0;0;0;0; 8;377;332;395;286;395;31;360;0;36;0;0;28;0;295;24;335; 6;1;3;4;4;5;6;1;4;6;1;2;3;1;6;7;0;1;7
+SnowWallBuildFastAndRotting_0002;398;688;395;335; 0.5;0.12835820895522387; 0;0;0;0; 8;377;332;395;286;395;31;360;0;36;0;0;28;0;295;24;335; 6;1;3;4;4;5;6;1;4;6;1;2;3;1;6;7;0;1;7
+SnowWallBuildFastAndRotting_0003;1;351;395;335; 0.5;0.12835820895522387; 0;0;0;0; 8;377;332;395;286;395;31;360;0;36;0;0;28;0;295;24;335; 6;1;3;4;4;5;6;1;4;6;1;2;3;1;6;7;0;1;7
+SnowWallBuildFastAndRotting_0004;1;14;395;335; 0.5;0.12835820895522387; 0;0;0;0; 8;377;332;395;286;395;31;360;0;36;0;0;28;0;295;24;335; 6;1;3;4;4;5;6;1;4;6;1;2;3;1;6;7;0;1;7
+SnowWallBuildFastAndRotting_0005;1;351;395;335; 0.5;0.12835820895522387; 0;0;0;0; 8;377;332;395;286;395;31;360;0;36;0;0;28;0;295;24;335; 6;1;3;4;4;5;6;1;4;6;1;2;3;1;6;7;0;1;7

@@ -1,0 +1,20 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:00260e0d13be20b7d9ff3a06850f32e0:fa6b0397df19fa2e40e8f0e7122ecdb2:9169b84329ac6bf25e7fcfdcc1ef28e9$
+#
+:format=40300
+:texture=BuildProhibited.png
+:size=512x1024
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+BuildProhibited_0001;1;712;370;311; 0.5;0.13183279742765275; 0;0;0;0; 8;370;288;370;33;337;0;47;0;0;13;0;279;17;311;332;311; 6;5;6;7;3;5;7;3;4;5;2;3;7;1;2;7;0;1;7
+BuildProhibited_0002;1;399;370;311; 0.5;0.13183279742765275; 0;0;0;0; 8;370;288;370;33;337;0;47;0;0;13;0;279;17;311;332;311; 6;5;6;7;3;5;7;3;4;5;2;3;7;1;2;7;0;1;7
+BuildProhibited_0003;1;712;370;311; 0.5;0.13183279742765275; 0;0;0;0; 8;370;288;370;33;337;0;47;0;0;13;0;279;17;311;332;311; 6;5;6;7;3;5;7;3;4;5;2;3;7;1;2;7;0;1;7
+BuildProhibited_0004;1;86;370;311; 0.5;0.13183279742765275; 0;0;0;0; 8;370;288;370;33;337;0;47;0;0;13;0;279;17;311;332;311; 6;5;6;7;3;5;7;3;4;5;2;3;7;1;2;7;0;1;7
+BuildProhibited_0005;1;712;370;311; 0.5;0.13183279742765275; 0;0;0;0; 8;370;288;370;33;337;0;47;0;0;13;0;279;17;311;332;311; 6;5;6;7;3;5;7;3;4;5;2;3;7;1;2;7;0;1;7

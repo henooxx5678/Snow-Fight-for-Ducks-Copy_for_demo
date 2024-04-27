@@ -1,0 +1,18 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:1aebc936b27dee7526ea52f867d9f8f2:2b4101633e32f54b95ca172872f78123:011aebf3e5a4efeb48a0378c9b44b556$
+#
+:format=40300
+:texture=Others.png
+:size=256x128
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+CastShadow;34;54;173;73; 0.6502890173410405;1.404109589041096; 0;0;0;0; 7;173;18;105;0;65;0;18;14;0;49;59;68;137;73; 5;1;5;6;3;4;5;2;3;5;1;2;5;0;1;6
+FireDirectionInstructor;1;46;31;81; 0.5;0.5; 0;0;0;0; 6;31;45;31;38;7;0;0;0;0;81;7;81; 4;0;4;5;1;2;3;4;0;1;4;1;3
+QuackWord;34;3;74;49; 0.4864864864864865;0.5612244897959184; 0;0;0;0; 5;74;9;69;0;0;18;0;38;57;49; 3;2;3;4;1;2;4;0;1;4

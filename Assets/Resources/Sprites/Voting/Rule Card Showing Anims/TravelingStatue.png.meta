@@ -1,0 +1,596 @@
+fileFormatVersion: 2
+guid: 61f0f4a896aca684ea21cb2edc5b354f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9149710969388668626
+    second: TravelingStatue_0001
+  - first:
+      213: -4719781281125145136
+    second: TravelingStatue_0002
+  - first:
+      213: 5313114227134833493
+    second: TravelingStatue_0003
+  - first:
+      213: 2715153143025265675
+    second: TravelingStatue_0004
+  - first:
+      213: 1015411240364658501
+    second: TravelingStatue_0005
+  - first:
+      213: -1524416008060134058
+    second: TravelingStatue_0006
+  - first:
+      213: -4592050651282597488
+    second: TravelingStatue_0007
+  - first:
+      213: 4341642574019865036
+    second: TravelingStatue_0008
+  - first:
+      213: 90590399873002571
+    second: TravelingStatue_0009
+  - first:
+      213: -4400793269926097867
+    second: TravelingStatue_0010
+  - first:
+      213: 5472376878782387144
+    second: TravelingStatue_0011
+  - first:
+      213: 8966126557868909626
+    second: TravelingStatue_0012
+  - first:
+      213: 5474395842439617275
+    second: TravelingStatue_0013
+  - first:
+      213: 2887745316689651169
+    second: TravelingStatue_0014
+  - first:
+      213: -1218277613216269988
+    second: TravelingStatue_0015
+  - first:
+      213: 3382622080297973366
+    second: TravelingStatue_0016
+  - first:
+      213: 6671148192318763954
+    second: TravelingStatue_0017
+  - first:
+      213: 3100134493641950574
+    second: TravelingStatue_0018
+  - first:
+      213: -2524816801589800029
+    second: TravelingStatue_0019
+  - first:
+      213: -6088950453656416725
+    second: TravelingStatue_0020
+  - first:
+      213: -2295514417987814698
+    second: TravelingStatue_0021
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TravelingStatue_0001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1711
+        width: 395
+        height: 336
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13095239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d618ef36ad4afe70800000000000000
+      internalID: 9149710969388668626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TravelingStatue_0002
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1711
+        width: 395
+        height: 336
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13095239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d56ff86ee7ff7eb0800000000000000
+      internalID: -4719781281125145136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TravelingStatue_0003
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1711
+        width: 395
+        height: 336
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13095239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553227f4d39fbb940800000000000000
+      internalID: 5313114227134833493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TravelingStatue_0004
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1711
+        width: 395
+        height: 336
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13095239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c6ec8e5692ea520800000000000000
+      internalID: 2715153143025265675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TravelingStatue_0005
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1711
+        width: 395
+        height: 336
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13095239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54fcfdaa427771e00800000000000000
+      internalID: 1015411240364658501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TravelingStatue_0006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1373
+        width: 395
+        height: 336
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13095239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d18a5a7bf28dae0800000000000000
+      internalID: -1524416008060134058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TravelingStatue_0007
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1035
+        width: 395
+        height: 336
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13095239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09913bb2342c540c0800000000000000
+      internalID: -4592050651282597488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TravelingStatue_0008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 697
+        width: 395
+        height: 336
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13095239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9aa260bec904c30800000000000000
+      internalID: 4341642574019865036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TravelingStatue_0009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 359
+        width: 395
+        height: 336
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13095239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cad7c1d77d14100800000000000000
+      internalID: 90590399873002571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TravelingStatue_0010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 21
+        width: 395
+        height: 336
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13095239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c002066dd3de2c0800000000000000
+      internalID: -4400793269926097867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TravelingStatue_0011
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1373
+        width: 395
+        height: 336
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13095239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c392e007c9c1fb40800000000000000
+      internalID: 5472376878782387144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TravelingStatue_0012
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1373
+        width: 395
+        height: 336
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13095239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34e8fc89941e6c70800000000000000
+      internalID: 8966126557868909626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TravelingStatue_0013
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1373
+        width: 395
+        height: 336
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13095239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa1d7c9306f8fb40800000000000000
+      internalID: 5474395842439617275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TravelingStatue_0014
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1373
+        width: 395
+        height: 336
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13095239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5a51bc015531820800000000000000
+      internalID: 2887745316689651169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TravelingStatue_0015
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1035
+        width: 395
+        height: 336
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13095239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59fe6a27fec71fe0800000000000000
+      internalID: -1218277613216269988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TravelingStatue_0016
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 697
+        width: 395
+        height: 336
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13095239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676bd813cdc71fe20800000000000000
+      internalID: 3382622080297973366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TravelingStatue_0017
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 359
+        width: 395
+        height: 336
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13095239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b336278feda49c50800000000000000
+      internalID: 6671148192318763954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TravelingStatue_0018
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 21
+        width: 395
+        height: 336
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13095239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65c67195e3e50b20800000000000000
+      internalID: 3100134493641950574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TravelingStatue_0019
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1035
+        width: 395
+        height: 336
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13095239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a35d4afe7c06fcd0800000000000000
+      internalID: -2524816801589800029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TravelingStatue_0020
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1035
+        width: 395
+        height: 336
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13095239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e0bd2b2d3bf7ba0800000000000000
+      internalID: -6088950453656416725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TravelingStatue_0021
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1035
+        width: 395
+        height: 336
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13095239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da7c0b8cc1b420e0800000000000000
+      internalID: -2295514417987814698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

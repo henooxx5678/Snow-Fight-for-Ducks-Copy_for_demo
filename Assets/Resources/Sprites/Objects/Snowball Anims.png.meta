@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: 7e0bba193d1fbae498cb94633d0adf2a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2171534357746203321
+    second: CastShadow
+  - first:
+      213: 630796072540304864
+    second: Flying_0001
+  - first:
+      213: -3749105818252590578
+    second: Smashing_0001
+  - first:
+      213: 6142796369046686629
+    second: Smashing_0002
+  - first:
+      213: -1101317398770426917
+    second: Smashing_0003
+  - first:
+      213: -2455351529562084723
+    second: Smashing_0004
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CastShadow
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 204
+        width: 50
+        height: 51
+      alignment: 9
+      pivot: {x: 0.49, y: 0.50980395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7454bf4c1092dd1e0800000000000000
+      internalID: -2171534357746203321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flying_0001
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 215
+        width: 49
+        height: 40
+      alignment: 9
+      pivot: {x: 0.52040815, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5f9759fa901c800800000000000000
+      internalID: 630796072540304864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smashing_0001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 125
+        width: 40
+        height: 77
+      alignment: 9
+      pivot: {x: 0.4625, y: 0.4935065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0244b53f1088fbc0800000000000000
+      internalID: -3749105818252590578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smashing_0002
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 133
+        width: 43
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5232558, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab469070c89f3550800000000000000
+      internalID: 6142796369046686629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smashing_0003
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 40
+        width: 36
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5972222, y: 0.5060241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbd45d29a557b0f0800000000000000
+      internalID: -1101317398770426917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smashing_0004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 31
+        width: 36
+        height: 92
+      alignment: 9
+      pivot: {x: 0.7083333, y: 0.51086956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a6db9fac6dcedd0800000000000000
+      internalID: -2455351529562084723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

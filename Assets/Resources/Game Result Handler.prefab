@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5330925173849231401
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8607939205206162780}
+  - component: {fileID: 4400450561172024363}
+  m_Layer: 0
+  m_Name: Game Result Handler
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8607939205206162780
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5330925173849231401}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 629.03046, y: 552.04736, z: -316.42813}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4400450561172024363
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5330925173849231401}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df07025c83896bc44beb42ceac931e3a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemNames:
+    totalRounds: "\u56DE\u5408\u6578"
+    totalGameTime: "\u904A\u6232\u6642\u9593"
+    opponentHits: "\u64CA\u4E2D\u6575\u4EBA\u6B21\u6578"
+    allyHits: "\u64CA\u4E2D\u968A\u53CB\u6B21\u6578"
+    oppoenetStatueHits: "\u64CA\u4E2D\u6575\u65B9\u96D5\u50CF\u6B21\u6578"
+    allyStatueHits: "\u64CA\u4E2D\u5DF1\u65B9\u96D5\u50CF\u6B21\u6578"
+    snowWallHits: "\u64CA\u4E2D\u96EA\u7246\u6B21\u6578"
+    firedAmount: "\u767C\u5C04\u96EA\u7403\u6578"
+    builtAmount: "\u5EFA\u9020\u96EA\u7246\u6578"
+    repairedTimes: "\u4FEE\u88DC\u96D5\u50CF\u6B21\u6578"
+    getHitTimes: "\u88AB\u64CA\u4E2D\u6B21\u6578"
+    votedTimes: "\u6295\u7968\u6B21\u6578"
+    votedElectedTimes: "\u6295\u7968\u5C0D\u8C61\u7576\u9078\u6B21\u6578"
+    votedElectedRate: "\u6295\u7968\u5C0D\u8C61\u7576\u9078\u7387"

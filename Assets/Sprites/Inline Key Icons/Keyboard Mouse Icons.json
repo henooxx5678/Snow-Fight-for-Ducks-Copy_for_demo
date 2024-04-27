@@ -1,0 +1,183 @@
+{"frames": [
+
+{
+	"filename": "1.png",
+	"frame": {"x":1,"y":529,"w":136,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":27,"w":136,"h":103},
+	"sourceSize": {"w":142,"h":153},
+	"pivot": {"x":0,"y":1}
+},
+{
+	"filename": "2.png",
+	"frame": {"x":139,"y":529,"w":136,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":27,"w":136,"h":103},
+	"sourceSize": {"w":142,"h":153},
+	"pivot": {"x":0,"y":1}
+},
+{
+	"filename": "3.png",
+	"frame": {"x":277,"y":529,"w":136,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":27,"w":136,"h":103},
+	"sourceSize": {"w":142,"h":153},
+	"pivot": {"x":0,"y":1}
+},
+{
+	"filename": "4.png",
+	"frame": {"x":1,"y":634,"w":136,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":27,"w":136,"h":103},
+	"sourceSize": {"w":142,"h":153},
+	"pivot": {"x":0,"y":1}
+},
+{
+	"filename": "A.png",
+	"frame": {"x":1,"y":1,"w":136,"h":139},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":11,"w":136,"h":139},
+	"sourceSize": {"w":142,"h":153},
+	"pivot": {"x":0,"y":1}
+},
+{
+	"filename": "Alt.png",
+	"frame": {"x":1,"y":283,"w":136,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":19,"w":136,"h":121},
+	"sourceSize": {"w":142,"h":153},
+	"pivot": {"x":0,"y":1}
+},
+{
+	"filename": "Ctrl.png",
+	"frame": {"x":139,"y":283,"w":136,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":19,"w":136,"h":121},
+	"sourceSize": {"w":142,"h":153},
+	"pivot": {"x":0,"y":1}
+},
+{
+	"filename": "D.png",
+	"frame": {"x":139,"y":1,"w":136,"h":139},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":11,"w":136,"h":139},
+	"sourceSize": {"w":142,"h":153},
+	"pivot": {"x":0,"y":1}
+},
+{
+	"filename": "E.png",
+	"frame": {"x":277,"y":1,"w":136,"h":139},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":11,"w":136,"h":139},
+	"sourceSize": {"w":142,"h":153},
+	"pivot": {"x":0,"y":1}
+},
+{
+	"filename": "Enter.png",
+	"frame": {"x":277,"y":283,"w":136,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":19,"w":136,"h":121},
+	"sourceSize": {"w":142,"h":153},
+	"pivot": {"x":0,"y":1}
+},
+{
+	"filename": "ESC.png",
+	"frame": {"x":1,"y":739,"w":136,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":27,"w":136,"h":103},
+	"sourceSize": {"w":142,"h":153},
+	"pivot": {"x":0,"y":1}
+},
+{
+	"filename": "LeftShift.png",
+	"frame": {"x":1,"y":406,"w":136,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":19,"w":136,"h":121},
+	"sourceSize": {"w":142,"h":153},
+	"pivot": {"x":0,"y":1}
+},
+{
+	"filename": "MouseLB.png",
+	"frame": {"x":415,"y":1,"w":83,"h":131},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":11,"w":83,"h":131},
+	"sourceSize": {"w":142,"h":153},
+	"pivot": {"x":0,"y":1}
+},
+{
+	"filename": "MouseRB.png",
+	"frame": {"x":415,"y":134,"w":83,"h":131},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":11,"w":83,"h":131},
+	"sourceSize": {"w":142,"h":153},
+	"pivot": {"x":0,"y":1}
+},
+{
+	"filename": "Q.png",
+	"frame": {"x":1,"y":142,"w":136,"h":139},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":11,"w":136,"h":139},
+	"sourceSize": {"w":142,"h":153},
+	"pivot": {"x":0,"y":1}
+},
+{
+	"filename": "S.png",
+	"frame": {"x":139,"y":142,"w":136,"h":139},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":11,"w":136,"h":139},
+	"sourceSize": {"w":142,"h":153},
+	"pivot": {"x":0,"y":1}
+},
+{
+	"filename": "Space.png",
+	"frame": {"x":139,"y":406,"w":136,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":19,"w":136,"h":121},
+	"sourceSize": {"w":142,"h":153},
+	"pivot": {"x":0,"y":1}
+},
+{
+	"filename": "Tab.png",
+	"frame": {"x":277,"y":406,"w":136,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":19,"w":136,"h":121},
+	"sourceSize": {"w":142,"h":153},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "W.png",
+	"frame": {"x":277,"y":142,"w":136,"h":139},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":11,"w":136,"h":139},
+	"sourceSize": {"w":142,"h":153},
+	"pivot": {"x":0,"y":1}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Keyboard Mouse Icons.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e9c19b5b10f1f1043edecbd2f5706eda:57e78d1a24ddcfb6e401de16a32e82e1:2cde3e59bb6bff0e6bb16a3fd89984e1$"
+}
+}

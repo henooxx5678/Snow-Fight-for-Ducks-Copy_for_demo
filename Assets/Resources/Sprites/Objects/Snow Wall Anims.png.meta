@@ -1,0 +1,1244 @@
+fileFormatVersion: 2
+guid: fbf71d3f0a70d534aaa9dcab767aadbc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4764970695376134615
+    second: CastShadow-Right
+  - first:
+      213: -2578328250728560903
+    second: CastShadow-RightDown
+  - first:
+      213: 3522709914614117635
+    second: CastShadow-RightUp
+  - first:
+      213: 3017402091982035117
+    second: Right1To0_0001
+  - first:
+      213: -4511023789794435011
+    second: Right1To0_0002
+  - first:
+      213: -97581431491070445
+    second: Right1To0_0003
+  - first:
+      213: 6060783153140786098
+    second: Right1To0_0004
+  - first:
+      213: -5257821297361987955
+    second: Right1To0_0005
+  - first:
+      213: 7356417773158244906
+    second: Right1To0_0006
+  - first:
+      213: 6081223222203226652
+    second: Right1To0_0007
+  - first:
+      213: -5810151616933876406
+    second: Right2To1_0001
+  - first:
+      213: 3833978254407960230
+    second: Right2To1_0002
+  - first:
+      213: 7326337723889336193
+    second: Right2To1_0003
+  - first:
+      213: -747439705342088482
+    second: Right2To1_0004
+  - first:
+      213: 8037824319961423725
+    second: Right2To1_0005
+  - first:
+      213: 5750708557731831868
+    second: Right2To1_0006
+  - first:
+      213: 8673743636831736484
+    second: RightDown1To0_0001
+  - first:
+      213: -4969699820292416394
+    second: RightDown1To0_0002
+  - first:
+      213: 3125602299590440446
+    second: RightDown1To0_0003
+  - first:
+      213: 2625489944551571106
+    second: RightDown1To0_0004
+  - first:
+      213: 4431802129006703266
+    second: RightDown1To0_0005
+  - first:
+      213: 3678896481697021107
+    second: RightDown1To0_0006
+  - first:
+      213: -2697890076801730593
+    second: RightDown1To0_0007
+  - first:
+      213: 6627199350875413213
+    second: RightDown2To1_0001
+  - first:
+      213: 1548931748948501136
+    second: RightDown2To1_0002
+  - first:
+      213: -6732243860215530859
+    second: RightDown2To1_0003
+  - first:
+      213: -1817983182222121613
+    second: RightDown2To1_0004
+  - first:
+      213: 90123000648300807
+    second: RightDown2To1_0005
+  - first:
+      213: -6297033873500991350
+    second: RightDown2To1_0006
+  - first:
+      213: -4398743826376181186
+    second: RightDownIdle1HP
+  - first:
+      213: -8676382040244629948
+    second: RightDownIdle2HP
+  - first:
+      213: 1315124720349895734
+    second: RightIdle1HP
+  - first:
+      213: 5816983435162055381
+    second: RightIdle2HP
+  - first:
+      213: 6785262726864774927
+    second: RightUp1To0_0001
+  - first:
+      213: -6419994142006260344
+    second: RightUp1To0_0002
+  - first:
+      213: -2260792892022510806
+    second: RightUp1To0_0003
+  - first:
+      213: 6698328098365177822
+    second: RightUp1To0_0004
+  - first:
+      213: -4502870580725972125
+    second: RightUp1To0_0005
+  - first:
+      213: 7999310536839443318
+    second: RightUp1To0_0006
+  - first:
+      213: -2670444275156310558
+    second: RightUp1To0_0007
+  - first:
+      213: 420939696158183159
+    second: RightUp2To1_0001
+  - first:
+      213: 1468182830334506571
+    second: RightUp2To1_0002
+  - first:
+      213: -4816788263869386692
+    second: RightUp2To1_0003
+  - first:
+      213: 2567760859185354590
+    second: RightUp2To1_0004
+  - first:
+      213: -8444043162977870192
+    second: RightUp2To1_0005
+  - first:
+      213: -2478974390159967971
+    second: RightUp2To1_0006
+  - first:
+      213: 1249560821727689051
+    second: RightUpIdle1HP
+  - first:
+      213: 7228332049234885190
+    second: RightUpIdle2HP
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CastShadow-Right
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 328
+        width: 144
+        height: 183
+      alignment: 9
+      pivot: {x: 0.34375, y: 0.5409836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d16a0ff993902240800000000000000
+      internalID: 4764970695376134615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastShadow-RightDown
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 11
+        width: 155
+        height: 160
+      alignment: 9
+      pivot: {x: 0.46774194, y: 0.56875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f648f4dd10f73cd0800000000000000
+      internalID: -2578328250728560903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastShadow-RightUp
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 35
+        width: 167
+        height: 155
+      alignment: 9
+      pivot: {x: 0.4760479, y: 0.52903223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3053253d00e23e030800000000000000
+      internalID: 3522709914614117635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right1To0_0001
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 149
+        width: 93
+        height: 180
+      alignment: 9
+      pivot: {x: 0.34946236, y: 0.45555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da81c1d3737ffd920800000000000000
+      internalID: 3017402091982035117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right1To0_0002
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 143
+        width: 102
+        height: 183
+      alignment: 9
+      pivot: {x: 0.35784313, y: 0.44808742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3067fb73cf9561c0800000000000000
+      internalID: -4511023789794435011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right1To0_0003
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 219
+        width: 107
+        height: 144
+      alignment: 9
+      pivot: {x: 0.37850466, y: 0.47916666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316fc4f743255aef0800000000000000
+      internalID: -97581431491070445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right1To0_0004
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 2
+        width: 104
+        height: 132
+      alignment: 9
+      pivot: {x: 0.37019232, y: 0.50757575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3e0a79a2a3c1450800000000000000
+      internalID: 6060783153140786098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right1To0_0005
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6
+        width: 110
+        height: 110
+      alignment: 9
+      pivot: {x: 0.37727273, y: 0.55454546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86514e13677807b0800000000000000
+      internalID: -5257821297361987955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right1To0_0006
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 78
+        width: 107
+        height: 106
+      alignment: 9
+      pivot: {x: 0.40654206, y: 0.5566038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22a77c1dfe371660800000000000000
+      internalID: 7356417773158244906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right1To0_0007
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 20
+        width: 90
+        height: 73
+      alignment: 9
+      pivot: {x: 0.40555555, y: 0.7123288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a97470d48d46450800000000000000
+      internalID: 6081223222203226652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right2To1_0001
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 326
+        width: 96
+        height: 185
+      alignment: 9
+      pivot: {x: 0.33854166, y: 0.44324324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4dae7d43e13e5fa0800000000000000
+      internalID: -5810151616933876406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right2To1_0002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 118
+        width: 117
+        height: 188
+      alignment: 9
+      pivot: {x: 0.36324787, y: 0.43617022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a60f8ab8e6053530800000000000000
+      internalID: 3833978254407960230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right2To1_0003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 308
+        width: 113
+        height: 203
+      alignment: 9
+      pivot: {x: 0.3761062, y: 0.4679803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18fb7f0e7516ca560800000000000000
+      internalID: 7326337723889336193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right2To1_0004
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 136
+        width: 120
+        height: 185
+      alignment: 9
+      pivot: {x: 0.3625, y: 0.45405406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edaef005c8f80a5f0800000000000000
+      internalID: -747439705342088482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right2To1_0005
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 323
+        width: 112
+        height: 188
+      alignment: 9
+      pivot: {x: 0.32589287, y: 0.43617022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6fdb4ef1a61c8f60800000000000000
+      internalID: 8037824319961423725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right2To1_0006
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 143
+        width: 118
+        height: 183
+      alignment: 9
+      pivot: {x: 0.3601695, y: 0.44808742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30a766f6fe9ecf40800000000000000
+      internalID: 5750708557731831868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightDown1To0_0001
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 27
+        width: 144
+        height: 159
+      alignment: 9
+      pivot: {x: 0.4409722, y: 0.4591195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2192ad1e35f5870800000000000000
+      internalID: 8673743636831736484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightDown1To0_0002
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 75
+        width: 156
+        height: 142
+      alignment: 9
+      pivot: {x: 0.45192307, y: 0.5140845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67cd5231854180bb0800000000000000
+      internalID: -4969699820292416394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightDown1To0_0003
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 287
+        width: 157
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5509554, y: 0.5338983}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef57b383bbe506b20800000000000000
+      internalID: 3125602299590440446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightDown1To0_0004
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 15
+        width: 137
+        height: 126
+      alignment: 9
+      pivot: {x: 0.45620438, y: 0.53174603}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae3b52b13d9f6420800000000000000
+      internalID: 2625489944551571106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightDown1To0_0005
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 407
+        width: 125
+        height: 104
+      alignment: 9
+      pivot: {x: 0.516, y: 0.4903846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2b34e3e8ce08d30800000000000000
+      internalID: 4431802129006703266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightDown1To0_0006
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 415
+        width: 92
+        height: 96
+      alignment: 9
+      pivot: {x: 0.46195653, y: 0.47916666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc3cf4cbd01e0330800000000000000
+      internalID: 3678896481697021107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightDown1To0_0007
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 10
+        width: 98
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5867347, y: 0.5421687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd77e29e44b2f8ad0800000000000000
+      internalID: -2697890076801730593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightDown2To1_0001
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 173
+        width: 145
+        height: 168
+      alignment: 9
+      pivot: {x: 0.4448276, y: 0.4107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddad0ac72ba88fb50800000000000000
+      internalID: 6627199350875413213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightDown2To1_0002
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 352
+        width: 156
+        height: 159
+      alignment: 9
+      pivot: {x: 0.45192307, y: 0.42138365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09266651839ee7510800000000000000
+      internalID: 1548931748948501136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightDown2To1_0003
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 350
+        width: 157
+        height: 161
+      alignment: 9
+      pivot: {x: 0.46178344, y: 0.41614908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a7c8ac0e34292a0800000000000000
+      internalID: -6732243860215530859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightDown2To1_0004
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 354
+        width: 164
+        height: 157
+      alignment: 9
+      pivot: {x: 0.4847561, y: 0.44585988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37524088de935c6e0800000000000000
+      internalID: -1817983182222121613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightDown2To1_0005
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 358
+        width: 161
+        height: 153
+      alignment: 9
+      pivot: {x: 0.4751553, y: 0.43137255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709fbbf346e204100800000000000000
+      internalID: 90123000648300807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightDown2To1_0006
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 43
+        width: 153
+        height: 152
+      alignment: 9
+      pivot: {x: 0.44771242, y: 0.4276316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a801f5f1e017c98a0800000000000000
+      internalID: -6297033873500991350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightDownIdle1HP
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 188
+        width: 154
+        height: 160
+      alignment: 9
+      pivot: {x: 0.4512987, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ab7e2abc584f2c0800000000000000
+      internalID: -4398743826376181186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightDownIdle2HP
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 343
+        width: 153
+        height: 168
+      alignment: 9
+      pivot: {x: 0.44771242, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ec3abf08c479780800000000000000
+      internalID: -8676382040244629948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightIdle1HP
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 331
+        width: 103
+        height: 180
+      alignment: 9
+      pivot: {x: 0.2961165, y: 0.45555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c5acf17f2404210800000000000000
+      internalID: 1315124720349895734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightIdle2HP
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 134
+        width: 93
+        height: 187
+      alignment: 9
+      pivot: {x: 0.3172043, y: 0.43850267}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d27a255d931ab050800000000000000
+      internalID: 5816983435162055381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightUp1To0_0001
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 365
+        width: 139
+        height: 146
+      alignment: 9
+      pivot: {x: 0.41366908, y: 0.42465752}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07297e00881a2e50800000000000000
+      internalID: 6785262726864774927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightUp1To0_0002
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 3
+        width: 145
+        height: 138
+      alignment: 9
+      pivot: {x: 0.40344828, y: 0.44927537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88dc0a9a75997e6a0800000000000000
+      internalID: -6419994142006260344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightUp1To0_0003
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 385
+        width: 125
+        height: 126
+      alignment: 9
+      pivot: {x: 0.42, y: 0.43650794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b2548c7dc00a0e0800000000000000
+      internalID: -2260792892022510806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightUp1To0_0004
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 95
+        width: 130
+        height: 124
+      alignment: 9
+      pivot: {x: 0.43461537, y: 0.4919355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edff21c8aed35fc50800000000000000
+      internalID: 6698328098365177822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightUp1To0_0005
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 8
+        width: 118
+        height: 108
+      alignment: 9
+      pivot: {x: 0.4279661, y: 0.4722222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363854660179281c0800000000000000
+      internalID: -4502870580725972125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightUp1To0_0006
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 186
+        width: 115
+        height: 99
+      alignment: 9
+      pivot: {x: 0.43913043, y: 0.47474748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673ba541d82430f60800000000000000
+      internalID: 7999310536839443318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightUp1To0_0007
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 305
+        width: 69
+        height: 108
+      alignment: 9
+      pivot: {x: 0.23913044, y: 0.49074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e525d2941da0fad0800000000000000
+      internalID: -2670444275156310558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightUp2To1_0001
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 192
+        width: 142
+        height: 158
+      alignment: 9
+      pivot: {x: 0.43309858, y: 0.443038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe8e556c6a77d500800000000000000
+      internalID: 420939696158183159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightUp2To1_0002
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 197
+        width: 143
+        height: 155
+      alignment: 9
+      pivot: {x: 0.4020979, y: 0.44516128}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b467a636188006410800000000000000
+      internalID: 1468182830334506571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightUp2To1_0003
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 221
+        width: 142
+        height: 142
+      alignment: 9
+      pivot: {x: 0.40492958, y: 0.43661973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c307bcd2894572db0800000000000000
+      internalID: -4816788263869386692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightUp2To1_0004
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 365
+        width: 144
+        height: 146
+      alignment: 9
+      pivot: {x: 0.41319445, y: 0.43835616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5715e795e482a320800000000000000
+      internalID: 2567760859185354590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightUp2To1_0005
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1
+        width: 145
+        height: 146
+      alignment: 9
+      pivot: {x: 0.41724136, y: 0.43150684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e53a25b7bb0da80800000000000000
+      internalID: -8444043162977870192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightUp2To1_0006
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 70
+        width: 140
+        height: 145
+      alignment: 9
+      pivot: {x: 0.39642859, y: 0.4275862}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1979332de9e89dd0800000000000000
+      internalID: -2478974390159967971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightUpIdle1HP
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 217
+        width: 141
+        height: 146
+      alignment: 9
+      pivot: {x: 0.4007092, y: 0.42465752}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59f25862f4575110800000000000000
+      internalID: 1249560821727689051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RightUpIdle2HP
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 204
+        width: 138
+        height: 152
+      alignment: 9
+      pivot: {x: 0.38768116, y: 0.46052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a773193b1305460800000000000000
+      internalID: 7228332049234885190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

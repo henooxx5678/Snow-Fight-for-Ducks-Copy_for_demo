@@ -1,0 +1,156 @@
+{"frames": [
+
+{
+	"filename": "A.png",
+	"frame": {"x":131,"y":90,"w":120,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":17,"w":120,"h":119},
+	"sourceSize": {"w":142,"h":153},
+	"pivot": {"x":0,"y":1}
+},
+{
+	"filename": "B.png",
+	"frame": {"x":253,"y":130,"w":120,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":17,"w":120,"h":119},
+	"sourceSize": {"w":142,"h":153},
+	"pivot": {"x":0,"y":1}
+},
+{
+	"filename": "DPadDown.png",
+	"frame": {"x":399,"y":1,"w":80,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":37,"w":80,"h":79},
+	"sourceSize": {"w":142,"h":153},
+	"pivot": {"x":0,"y":1}
+},
+{
+	"filename": "DPadLeft.png",
+	"frame": {"x":399,"y":82,"w":80,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":37,"w":80,"h":79},
+	"sourceSize": {"w":142,"h":153},
+	"pivot": {"x":0,"y":1}
+},
+{
+	"filename": "DPadRight.png",
+	"frame": {"x":375,"y":284,"w":80,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":37,"w":80,"h":79},
+	"sourceSize": {"w":142,"h":153},
+	"pivot": {"x":0,"y":1}
+},
+{
+	"filename": "DPadUp.png",
+	"frame": {"x":375,"y":365,"w":80,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":37,"w":80,"h":79},
+	"sourceSize": {"w":142,"h":153},
+	"pivot": {"x":0,"y":1}
+},
+{
+	"filename": "LeftBumper.png",
+	"frame": {"x":1,"y":1,"w":132,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":33,"w":132,"h":87},
+	"sourceSize": {"w":142,"h":153},
+	"pivot": {"x":0,"y":1}
+},
+{
+	"filename": "LeftStick.png",
+	"frame": {"x":269,"y":1,"w":128,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":13,"w":128,"h":127},
+	"sourceSize": {"w":142,"h":153},
+	"pivot": {"x":0,"y":1}
+},
+{
+	"filename": "LeftTrigger.png",
+	"frame": {"x":123,"y":332,"w":116,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":17,"w":116,"h":119},
+	"sourceSize": {"w":142,"h":153},
+	"pivot": {"x":0,"y":1}
+},
+{
+	"filename": "Manu.png",
+	"frame": {"x":131,"y":211,"w":120,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":17,"w":120,"h":119},
+	"sourceSize": {"w":142,"h":153},
+	"pivot": {"x":0,"y":1}
+},
+{
+	"filename": "RightBumper.png",
+	"frame": {"x":135,"y":1,"w":132,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":33,"w":132,"h":87},
+	"sourceSize": {"w":142,"h":153},
+	"pivot": {"x":0,"y":1}
+},
+{
+	"filename": "RightStick.png",
+	"frame": {"x":1,"y":90,"w":128,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":13,"w":128,"h":127},
+	"sourceSize": {"w":142,"h":153},
+	"pivot": {"x":0,"y":1}
+},
+{
+	"filename": "RightTrigger.png",
+	"frame": {"x":1,"y":340,"w":116,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":17,"w":116,"h":119},
+	"sourceSize": {"w":142,"h":153},
+	"pivot": {"x":0,"y":1}
+},
+{
+	"filename": "View.png",
+	"frame": {"x":1,"y":219,"w":120,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":17,"w":120,"h":119},
+	"sourceSize": {"w":142,"h":153},
+	"pivot": {"x":0,"y":1}
+},
+{
+	"filename": "X.png",
+	"frame": {"x":375,"y":163,"w":120,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":17,"w":120,"h":119},
+	"sourceSize": {"w":142,"h":153},
+	"pivot": {"x":0,"y":1}
+},
+{
+	"filename": "Y.png",
+	"frame": {"x":253,"y":251,"w":120,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":17,"w":120,"h":119},
+	"sourceSize": {"w":142,"h":153},
+	"pivot": {"x":0,"y":1}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Xbox One Controller Icons.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:39800c816a83b828993638e1d3be91be:6e89a17a1b76871bdab86e488750ee38:59d480e6d30040aa6fd62a3e5e4d097e$"
+}
+}

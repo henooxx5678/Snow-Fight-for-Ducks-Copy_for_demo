@@ -1,0 +1,332 @@
+fileFormatVersion: 2
+guid: aed467a35ffbd044d9953050cfc4ff6c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8679440796261218072
+    second: Duck the Remover
+  - first:
+      213: -3530464662810569851
+    second: RuleCardBase-Blank
+  - first:
+      213: 7438115997613954545
+    second: RuleCardBase-Fixed
+  - first:
+      213: -1647188256086931154
+    second: RuleCardBody
+  - first:
+      213: 4828048603098173046
+    second: RuleCardShowFieldFrame-Gold
+  - first:
+      213: -5064384537329206836
+    second: RuleCardShowFieldFrame-Silver
+  - first:
+      213: 8507007100541742553
+    second: RuleCardTitleUnderlay
+  - first:
+      213: 4489128479796751815
+    second: Vote Stamp Backboard
+  - first:
+      213: 5447350646744088560
+    second: VotePhaseDuckLeft
+  - first:
+      213: -1793255822474850981
+    second: VotePhaseDuckRight
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Duck the Remover
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 779
+        width: 499
+        height: 484
+      alignment: 9
+      pivot: {x: 0.44088176, y: 0.39876032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817fe262b61937870800000000000000
+      internalID: 8679440796261218072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuleCardBase-Blank
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 1318
+        width: 506
+        height: 729
+      alignment: 9
+      pivot: {x: 0.5009881, y: 0.50342935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5835b192815410fc0800000000000000
+      internalID: -3530464662810569851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuleCardBase-Fixed
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 434
+        width: 506
+        height: 729
+      alignment: 9
+      pivot: {x: 0.5009881, y: 0.50342935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f51eeb471f793760800000000000000
+      internalID: 7438115997613954545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuleCardBody
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1265
+        width: 559
+        height: 782
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e294ebd12030429e0800000000000000
+      internalID: -1647188256086931154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuleCardShowFieldFrame-Gold
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 318
+        width: 506
+        height: 459
+      alignment: 9
+      pivot: {x: 0.50296444, y: 0.21350762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67eccf9df9ca00340800000000000000
+      internalID: 4828048603098173046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuleCardShowFieldFrame-Silver
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 24
+        width: 481
+        height: 408
+      alignment: 9
+      pivot: {x: 0.495842, y: 0.19362745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9f2867811b7b9b0800000000000000
+      internalID: -5064384537329206836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RuleCardTitleUnderlay
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 119
+        width: 507
+        height: 187
+      alignment: 9
+      pivot: {x: 0.50394475, y: 0.46524063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd2489c2e5fe0670800000000000000
+      internalID: 8507007100541742553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vote Stamp Backboard
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 120
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cdef5561969c4e30800000000000000
+      internalID: 4489128479796751815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VotePhaseDuckLeft
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 308
+        width: 578
+        height: 855
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fffc2a4d80e89b40800000000000000
+      internalID: 5447350646744088560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VotePhaseDuckRight
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1165
+        width: 735
+        height: 882
+      alignment: 9
+      pivot: {x: 0.50136054, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d4cfd94531d17e0800000000000000
+      internalID: -1793255822474850981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

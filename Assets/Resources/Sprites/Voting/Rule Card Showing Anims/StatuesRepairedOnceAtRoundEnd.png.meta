@@ -1,0 +1,308 @@
+fileFormatVersion: 2
+guid: cdea56106494da7458a396f66c159dc9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8945172110105486577
+    second: StatuesRepairedOnceAtRoundEnd_0001
+  - first:
+      213: -4133193229603607841
+    second: StatuesRepairedOnceAtRoundEnd_0002
+  - first:
+      213: -1206617743187281797
+    second: StatuesRepairedOnceAtRoundEnd_0003
+  - first:
+      213: -7280222718700356397
+    second: StatuesRepairedOnceAtRoundEnd_0004
+  - first:
+      213: 3467093887928170292
+    second: StatuesRepairedOnceAtRoundEnd_0005
+  - first:
+      213: -3817452685866465639
+    second: StatuesRepairedOnceAtRoundEnd_0006
+  - first:
+      213: 6907141223611275952
+    second: StatuesRepairedOnceAtRoundEnd_0007
+  - first:
+      213: -2296923945830189596
+    second: StatuesRepairedOnceAtRoundEnd_0008
+  - first:
+      213: -8159583854598511934
+    second: StatuesRepairedOnceAtRoundEnd_0009
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StatuesRepairedOnceAtRoundEnd_0001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1736
+        width: 370
+        height: 311
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1318328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b5e620c5d5cd380800000000000000
+      internalID: -8945172110105486577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatuesRepairedOnceAtRoundEnd_0002
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1736
+        width: 370
+        height: 311
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1318328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda6d6108a2f3a6c0800000000000000
+      internalID: -4133193229603607841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatuesRepairedOnceAtRoundEnd_0003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1423
+        width: 370
+        height: 311
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1318328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7873a53e8b314fe0800000000000000
+      internalID: -1206617743187281797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatuesRepairedOnceAtRoundEnd_0004
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1423
+        width: 370
+        height: 311
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1318328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dcf226720477fa90800000000000000
+      internalID: -7280222718700356397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatuesRepairedOnceAtRoundEnd_0005
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1110
+        width: 370
+        height: 311
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1318328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437f2e885879d1030800000000000000
+      internalID: 3467093887928170292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatuesRepairedOnceAtRoundEnd_0006
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1110
+        width: 370
+        height: 311
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1318328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9968118020fa50bc0800000000000000
+      internalID: -3817452685866465639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatuesRepairedOnceAtRoundEnd_0007
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 797
+        width: 370
+        height: 311
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1318328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba9ec6e8581bdf50800000000000000
+      internalID: 6907141223611275952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatuesRepairedOnceAtRoundEnd_0008
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 797
+        width: 370
+        height: 311
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1318328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5f3b447dfaf10e0800000000000000
+      internalID: -2296923945830189596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StatuesRepairedOnceAtRoundEnd_0009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1736
+        width: 370
+        height: 311
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1318328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2a4af27b553ce80800000000000000
+      internalID: -8159583854598511934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
